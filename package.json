@@ -1,6 +1,6 @@
 {
   "name": "easy-sitemap-generator",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Easy and free sitemap.xml file generator without any restrictions for your website.",
   "keywords": [
     "sitemap",
@@ -47,15 +47,15 @@
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "dependencies": {
-    "axios": "^1.17.0",
+    "axios": "^1.18.1",
     "chalk": "^5.6.2",
     "jsdom": "^29.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/jest": "^30.0.0",
-    "@types/node": "^25.9.3",
-    "globals": "^17.6.0",
+    "@types/node": "^26.1.1",
+    "globals": "^17.7.0",
     "jest": "^30.4.2"
   },
   "engines": {
